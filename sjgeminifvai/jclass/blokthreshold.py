@@ -1,7 +1,6 @@
 from jnius import (
     JavaClass,
     MetaJavaClass,
-    JavaStaticField,
     JavaStaticMethod
 )
 from sjgeminifvai import package_path
