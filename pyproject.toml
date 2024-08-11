@@ -1,5 +1,5 @@
 [tool.poetry]
-name = "sj-gemeni-vertex-ai"
+name = "sjgeminifvai"
 version = "0.1.0"
 description = "Access Gemini Android SDK in Python"
 authors = ["Kenechukwu Akubue <kengoon19@gmail.com>"]
@@ -8,6 +8,7 @@ readme = "README.md"
 [tool.poetry.dependencies]
 python = "^3.8"
 pyjnius = "^1.6.1"
+simplejnius = "^0.1.3"
 
 
 [build-system]
