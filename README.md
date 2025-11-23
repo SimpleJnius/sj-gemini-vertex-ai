@@ -1,6 +1,10 @@
 # Gemini (Firebase-Vertex-AI)
 
-Access Gemini Android SDK in Python 
+Access Gemini Android SDK in Python
+
+> [!CAUTION]
+> Firebase-Vertex-AI is now deprecated by the firebase team. Firebase Vertex AI is now Firebase AI.
+> You can find the new Python SimpleJnius implementation [here](https://github.com/SimpleJnius/sj-firebase-ai)
 
 ## Usage
 **Note: NO NEED FOR THREAD OR ASYNC.**

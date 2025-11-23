@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "sjgeminifvai"
-version = "0.1.0"
+version = "1.0.0"
 description = "Access Gemini Android SDK in Python"
 authors = ["Kenechukwu Akubue <kengoon19@gmail.com>"]
 readme = "README.md"
